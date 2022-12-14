@@ -1,0 +1,16 @@
+{
+  "name": "portfolio-build",
+  "version": "1.0.0",
+  "description": "- :wave: Hi, I'm murytarlah",
+  "main": "index.js",
+  "scripts": {
+    "test": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "homepage": "https://murytarlah.github.io/murydev",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
