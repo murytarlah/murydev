@@ -56,7 +56,7 @@ body{
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background-image: url('./Background.png');
+	background-image: url('./images/Background.png');
 	background-repeat: no-repeat;
 	background-position: top right;
 }
